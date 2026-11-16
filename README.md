@@ -51,7 +51,11 @@ grocery e-commerce (myCloudGrocer) · AI products (Yokai) · hotel management Sa
 
 ### 📌 Sample projects
 
-_Coming soon: Playwright demo · API testing · QA docs & AI testing checklist_
+| Project | What it shows |
+|---|---|
+| 🛒 **[Playwright E-commerce Tests](https://github.com/shary-qa/playwright-ecommerce-tests)** · [live report](https://shary-qa.github.io/playwright-ecommerce-tests/) | Login, cart, checkout on desktop, iPhone & Android · 93 automated runs in CI · **11 bugs found** and tracked as tests |
+
+_Coming next: API testing (Postman) · QA docs & AI/LLM testing checklist_
 
 ---
 
